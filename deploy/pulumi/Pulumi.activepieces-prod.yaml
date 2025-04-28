@@ -4,7 +4,7 @@ config:
   activepieces:apEncryptionKey:  
   activepieces:apJwtSecret: 
   activepieces:deployLocalBuild: "true"
-  activepieces:repoName: "activepieces-prod-repo"
+  activepieces:repoName: "activepieces-proed-repo"
   activepieces:containerCpu: "512"
   activepieces:containerMemory: "1024"
   activepieces:containerInstances: "1"
