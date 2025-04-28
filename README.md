@@ -7,7 +7,6 @@
     <img
       align="center"
       alt="Activepieces"
-src="https://github.com/activepieces/activepieces/assets/1812998/76c97441-c285-4480-bc75-30a0c73ed340"
       style="width:100%;"
     />
     
@@ -23,16 +22,9 @@ src="https://github.com/activepieces/activepieces/assets/1812998/76c97441-c285-4
 </p>
 
 <p align="center">
-  <a
-    href="https://www.activepieces.com/docs"
+  <a"
     target="_blank"
   ><b>Documentation</b></a>&nbsp;&nbsp;&nbsp;🌪️&nbsp;&nbsp;&nbsp;
-   <a
-    href="https://www.activepieces.com/docs/developers/overview"
-    target="_blank"
-  ><b>Create a Piece</b></a>&nbsp;&nbsp;&nbsp;🖉&nbsp;&nbsp;&nbsp;
-  <a
-    href="https://www.activepieces.com/docs/install/overview"
     target="_blank"
   ><b>Deploy</b></a>&nbsp;&nbsp;&nbsp;🔥&nbsp;&nbsp;&nbsp;
   <a
